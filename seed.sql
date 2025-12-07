@@ -1,0 +1,1 @@
+INSERT INTO courses (title,slug,description,price_cents,is_paid) VALUES ('Fondamenti di Informatica','fondamenti-informatica','Corso base gratuito',0,0);
