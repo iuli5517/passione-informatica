@@ -1,0 +1,13 @@
+{
+  "name": "passione-informatica-frontend",
+  "version": "1.0.0",
+  "description": "Frontend statico del sito Passione Informatica",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo \"Build non necessaria per contenuti statici\"",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [],
+  "author": "Salvo",
+  "license": "MIT"
+}
