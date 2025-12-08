@@ -1,1 +1,0 @@
-Questo file serve per mantenere la cartella assets nel frontend.
