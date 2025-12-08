@@ -1,3 +1,0 @@
-Questa cartella serve per contenere immagini e assets.
-(Mantenuta vuota per GitHub)
-
